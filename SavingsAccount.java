@@ -15,7 +15,6 @@ public class SavingsAccount {
       SavingsAccount savings = new SavingsAccount(2000);
       
       //Check balance:
-      // System.out.println("Hello!");
       Hello();
       System.out.println("Your balance is "+savings.balance);
       
@@ -25,7 +24,6 @@ public class SavingsAccount {
       System.out.println("You just withdrew "+300);
       
       //Check balance:
-      // System.out.println("Hello!");
       System.out.println("Your balance is "+savings.balance);
       
       //Deposit:
@@ -34,7 +32,6 @@ public class SavingsAccount {
       System.out.println("You just deposited "+600);
       
       //Check balance:
-      // System.out.println("Hello!");
       Hello();
       System.out.println("Your balance is "+savings.balance);
       
@@ -44,7 +41,6 @@ public class SavingsAccount {
       System.out.println("You just deposited "+600);
       
       //Check balance:
-      // System.out.println("Hello!");
       Hello();
       System.out.println("Your balance is "+savings.balance);
       
